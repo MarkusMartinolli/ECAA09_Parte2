@@ -1,6 +1,14 @@
 # ECAA09 Parte2
 Segunda parte do projeto Django para a disciplina ECAA09
 
+# Proposta da Atividade (deixar mais claro a avaliação)
+
+- Criar tela de cadastro/registro personalizada indicando se é cliente ou oficina
+- No dashboard de cliente cadastrar de problema com upload de imagem
+- No dashboard de cliente listar os cadastros de problemas e se tem oficina interessada
+- No dashboard de oficina selecionar um problema cadastrado pelo cliente
+- No dashboard de oficina listar problemas selecionados
+
 ## Resultados do Gemini 3 
 [Chat de Geração do Projeto no Gemini 3 Pro](https://gemini.google.com/share/689d84d7820e)
 
